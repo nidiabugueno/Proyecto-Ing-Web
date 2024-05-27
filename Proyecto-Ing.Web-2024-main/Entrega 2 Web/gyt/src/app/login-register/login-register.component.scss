@@ -1,0 +1,22 @@
+/* login-register.component.scss */
+
+/* Estilos para el título */
+ion-title {
+    color: rgb(9, 120, 57); /* Cambia el color del título a azul */
+  }
+  
+  /* Estilos para los botones */
+  ion-button {
+    background-color: rgb(8, 137, 107); /* Cambia el color de fondo de los botones a verde */
+    color: white; /* Cambia el color del texto de los botones a blanco */
+  }
+
+  ion-content{
+    --ion-background-color: transparent; /* Asegura que el fondo de color sea transparente */
+    background: url('/assets/miau.png') no-repeat center center fixed; /* Ajusta la ruta de la imagen */
+    background-size: cover;
+    
+
+
+  }
+  
